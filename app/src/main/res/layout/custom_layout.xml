@@ -5,7 +5,7 @@
     android:layout_alignParentBottom="true"
     android:keyTextColor="#ffffff"
     android:background="#88888888"
-    android:keyBackground="@xml/custom_button">
+    android:keyBackground="@xml/custom_keybackground">
 
 
 </android.inputmethodservice.KeyboardView>

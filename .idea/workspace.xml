@@ -15,12 +15,12 @@
           <theme>@style/Theme.RabindraKeyboardBangla</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/custom_preview.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/xml/custom_button.xml">
         <config>
           <theme>@style/Theme.RabindraKeyboardBangla</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/xml/custom_button.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/xml/custom_keybackground.xml">
         <config>
           <theme>@style/Theme.RabindraKeyboardBangla</theme>
         </config>
@@ -41,7 +41,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bc58efc-dcec-48aa-8954-ddc40d12d891" name="Changes" comment="Updated readme" />
+    <list default="true" id="2bc58efc-dcec-48aa-8954-ddc40d12d891" name="Changes" comment="Updated readme">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/custom_button_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/custom_keybackground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/custom_keypad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/custom_keypad.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +67,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,6 +90,9 @@
     "accountId": "fc8fab4c-4d2a-4f8b-a312-919a39fafd14"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -94,6 +107,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Android App.app.executor": "Run",
+    "ApkExportedModule": "RabindraKeyboardBangla.app",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -101,10 +115,15 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sucha/AndroidStudioProjects/RabindraKeyboardBangla",
+    "last_opened_file_path": "C:/Users/sucha/AndroidStudioProjects/RabindraKeyboardBangla/app/src/main/res/xml",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sucha\AndroidStudioProjects\RabindraKeyboardBangla\app\src\main\res\xml" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="RabindraKeyboardBangla.app" />
