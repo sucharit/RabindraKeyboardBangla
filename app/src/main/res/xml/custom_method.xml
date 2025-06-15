@@ -2,8 +2,7 @@
 <input-method xmlns:android="http://schemas.android.com/apk/res/android">
 
     <subtype
-        android:label="Bengali (India)"
-        android:imeSubtypeLocale="bn_IN"
         android:imeSubtypeMode="keyboard"/>
-
+<!--android:label="Bengali (India)"
+        android:imeSubtypeLocale="bn_IN"-->
 </input-method>

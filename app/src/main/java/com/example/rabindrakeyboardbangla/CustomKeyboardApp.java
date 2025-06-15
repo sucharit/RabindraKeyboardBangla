@@ -365,6 +365,16 @@ public class CustomKeyboardApp extends InputMethodService
                             scode = "।";
                         }
                         break;
+                    case ',':
+                        if(inpState==","){
+                            inpState="";
+                            ic.deleteSurroundingText(1,0);
+                            scode=";";
+                        } else {
+                            inpState = ",";
+                            scode = ",";
+                        }
+                        break;
                     case '^':
                         if(isVowel(inpState)) {
                             inpState = "";
