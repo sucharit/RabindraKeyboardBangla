@@ -77,6 +77,8 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --To type some strange juktakkhors, you need to type the hasanta explicitly. For example, for ক্হ, type kh, since kh is খ.
 
+--DONE is Enter, BKSP is Backspace, and the Left/Right arrows are useful for moving the cursor left/right.
+
 ========
 
 Examples:
