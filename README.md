@@ -69,7 +69,9 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --y encodes য়, except when it follows a constant, when it encodes য-ফলা. Some special cases are when ry which is র‍্য (for র্য type rJ) and gyy which is জ্ঞ (ordinary gy is still গ্য). 
 
---For juktakkhors, type the consecutive consonants. For example, ndr for ন্দ্র, kt for ক্ত, shr for শ্র.  Therefore, ব-ফলা is w, র-ফলা is r, য-ফলা is y. --Some juktakkhors have shortcuts (like gyy for জ্ঞ and gy for গ্য). Some extra ones are nj for ঞ্জ, x for ক্ষ (the usual method to enter ক্ষ would have kS). I will leave the rest to you to discover for yourself. 
+--For juktakkhors, type the consecutive consonants. For example, ndr for ন্দ্র, kt for ক্ত, shr for শ্র.  Therefore, ব-ফলা is w, র-ফলা is r, য-ফলা is y. 
+
+--Some juktakkhors have shortcuts (like gyy for জ্ঞ and gy for গ্য). Some extra ones are nj for ঞ্জ, x for ক্ষ (the usual method to enter ক্ষ would have kS). I will leave the rest to you to discover for yourself. 
 
 --ঃ is represented by H; for ঁ, use ñ. Both have to be used after a vowel; if used after a consonant, does nothing. 
 
@@ -77,7 +79,9 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --To type some strange juktakkhors, you need to type the hasanta explicitly. For example, for ক্হ, type kh, since kh is খ.
 
---DONE is Enter, BKSP is Backspace, and the Left/Right arrows are useful for moving the cursor left/right.
+--For । use . and for ॥ use .. and for ; use ,,
+
+--DONE is Enter, BKSP is Backspace.
 
 ========
 
