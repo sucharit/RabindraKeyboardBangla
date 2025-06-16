@@ -17,7 +17,7 @@ Method 1. Directly from the binary file.
 
 Enable installation from "Unknown sources" on your Android device. (You might need to make yourself a "Developer" for your device first.)
 
-Download the binary file app/release/app-release.apk or app/build/outputs/apk/debug/app-debug.apk to your Android device, and click to install it.
+Download the binary file app/release/app-release.apk to your Android device, and click to install it.
 
 You will receive several warnings about the app being from an unknown source. You have to ignore all of those warnings.
 
