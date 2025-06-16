@@ -59,7 +59,9 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --For the harder/longer sounds, type in capitals, e.g. T for ট, Th for ঠ, D for ড, N for ণ, R for ড়, J for য. 
 
---ঙ is Ng, ঞ is Nj. --ng is encoded as ং if followed by a consonant, otherwise as ঙ্গ. 
+--ঙ is Ng, ঞ is Nj. 
+
+--ng is encoded as ং if followed by a consonant, otherwise as ঙ্গ. 
 
 --শ, স¸ and ষ are sh, s and S (or Sh), respectively. 
 
@@ -75,7 +77,7 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --ঃ is represented by H; for ঁ, use ñ. Both have to be used after a vowel; if used after a consonant, does nothing. 
 
---It is often useful to disrupt the phonetic transliteration; use #. For example, to type করতে, type kar#te; if you type karte, you get কর্তে; you may also type karate to get করতে, although that is a bit unnatural. This is also needed to write certain combinations. For instance, to write ওই, type o#i, since oi converts to ঐ. To completely disrupt the phonetic transliteration, type # twice, but this is not recommended; for instance, if you type kar##te, you get কর⁠তে, where the ে is wrong. 
+--It is often useful to disrupt the phonetic transliteration; use #. For example, to type করতে, type kar#te; if you type karte, you get কর্তে; you may also type karate to get করতে, although that is a bit unnatural. This is also needed to write certain combinations. For instance, to write ওই, type o#i, since oi converts to ঐ; to write সিংহ, type sing#ha, since singha converts to সিঙ্ঘ. To completely disrupt the phonetic transliteration, type # twice, but this is not recommended; for instance, if you type kar##te, you get কর⁠তে, where the shape of ে is wrong. 
 
 --To type some strange juktakkhors, you need to type the hasanta explicitly. For example, for ক্হ, type kh, since kh is খ.
 
