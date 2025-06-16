@@ -41,9 +41,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bc58efc-dcec-48aa-8954-ddc40d12d891" name="Changes" comment="Changed Done Bksp location">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2bc58efc-dcec-48aa-8954-ddc40d12d891" name="Changes" comment="Added app-release apk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +69,7 @@
     <option name="KEY_STORE_PATH" value="C:\Users\sucha\Dropbox\keys\androidsigning.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,6 +105,7 @@
     "Android App.app.executor": "Run",
     "ApkExportedModule": "RabindraKeyboardBangla.app",
     "BundleExportedModule": "RabindraKeyboardBangla.app",
+    "ExportApk.ApkPathForRabindraKeyboardBangla.app": "C:\\Users\\sucha\\AndroidStudioProjects\\RabindraKeyboardBangla\\app",
     "ExportBundle.BundlePathForRabindraKeyboardBangla.app": "C:\\Users\\sucha\\AndroidStudioProjects\\RabindraKeyboardBangla\\app",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -268,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750110345477</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added app-release apk">
+      <option name="closed" value="true" />
+      <created>1750112137916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750112137916</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +296,8 @@
     <MESSAGE value="Updated gitignore" />
     <MESSAGE value="Updated punctuations and keypress color" />
     <MESSAGE value="Changed Done Bksp location" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Done Bksp location" />
+    <MESSAGE value="Added app-release apk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added app-release apk" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
