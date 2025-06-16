@@ -53,8 +53,6 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --For the longer sounds, type twice, i.e., aa or A for আ, ii for ঈ, uu for ঊ, and RiRi for ৠ (only used in Sanskrit words); typing oo and ee in the middle of a word converts them to োঽ and েঽ, respectively (also only used in Sanskrit words). 
 
---For অ্যা and এ্যা type aA and eA. 
-
 --For the aspirated sounds, use h, eg. kh for খ, gh for ঘ, etc; additional h-presses do not change the letter; ফ is ph and ভ is bh. 
 
 --For the harder/longer sounds, type in capitals, e.g. T for ট, Th for ঠ, D for ড, N for ণ, R for ড়, J for য. 
@@ -80,6 +78,8 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 --It is often useful to disrupt the phonetic transliteration; use #. For example, to type করতে, type kar#te; if you type karte, you get কর্তে; you may also type karate to get করতে, although that is a bit unnatural. This is also needed to write certain combinations. For instance, to write ওই, type o#i, since oi converts to ঐ; to write সিংহ, type sing#ha, since singha converts to সিঙ্ঘ. To completely disrupt the phonetic transliteration, type # twice, but this is not recommended; for instance, if you type kar##te, you get কর⁠তে, where the shape of ে is wrong. 
 
 --To type some strange juktakkhors, you need to type the hasanta explicitly. For example, for ক্হ, type kh, since kh is খ.
+
+--In particular, the hasanta is needed for অ্যা, type a`Jaa (that is, অ+hasanta+J=অ্য, and then অ্য+	া=অ্যা). Similarly, এ্যা is e`Jaa.
 
 --For । use . and for ॥ use .. and for ; use ,,
 
