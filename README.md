@@ -79,7 +79,7 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --To type some strange juktakkhors, you need to type the hasanta explicitly. For example, for ক্হ, type kh, since kh is খ.
 
---In particular, the hasanta is needed for অ্যা, type a`Jaa (that is, অ+hasanta+J=অ্য, and then অ্য+	া=অ্যা). Similarly, এ্যা is e`Jaa.
+--In particular, the hasanta is needed for অ্যা, type a`Jaa (that is, a+hasanta+J=অ্য, and then অ্য+া=অ্যা).
 
 --For । use . and for ॥ use .. and for ; use ,,
 
