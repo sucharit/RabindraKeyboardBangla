@@ -33,6 +33,11 @@ public class CustomKeyboardApp extends InputMethodService
         if(s=="ং"){return true;}
         if(s=="অ"){return true;}
         if(s=="."){return true;}
+        if(s==","){return true;}
+        if(s==";"){return true;}
+        if(s=="?"){return true;}
+        if(s=="'"){return true;}
+        if(s=="-"){return true;}
         if(s=="ি"){return true;}
         if(s=="ই"){return true;}
         if(s=="ু"){return true;}
@@ -367,12 +372,47 @@ public class CustomKeyboardApp extends InputMethodService
                         break;
                     case ',':
                         if(inpState==","){
-                            inpState="";
+                            inpState=";";
                             ic.deleteSurroundingText(1,0);
                             scode=";";
-                        } else {
+                        } else if(inpState==";"){
+                            inpState="";
+                            ic.deleteSurroundingText(1,0);
+                            scode=":";
+                        }
+                        else {
                             inpState = ",";
                             scode = ",";
+                        }
+                        break;
+                    case '?':
+                        if(inpState=="?"){
+                            inpState="";
+                            ic.deleteSurroundingText(1,0);
+                            scode="!";
+                        } else {
+                            inpState = "?";
+                            scode = "?";
+                        }
+                        break;
+                    case '-':
+                        if(inpState=="-"){
+                            inpState="";
+                            ic.deleteSurroundingText(1,0);
+                            scode="—";
+                        } else {
+                            inpState = "-";
+                            scode = "-";
+                        }
+                        break;
+                    case '"':
+                        if(inpState=="'"){
+                            inpState="";
+                            ic.deleteSurroundingText(1,0);
+                            scode="'";
+                        } else {
+                            inpState = "'";
+                            scode = String.valueOf('"');
                         }
                         break;
                     case '^':
