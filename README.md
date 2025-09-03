@@ -81,7 +81,9 @@ The keymapping is fairly natural (with some additional shortcuts). The following
 
 --In particular, the hasanta is needed for অ্যা, type a`Jaa (that is, a+hasanta+J=অ্য, and then অ্য+া=অ্যা).
 
---For । use . and for ॥ use .. and for ; use ,,
+--For । use . and for ॥ use .. 
+
+--Repeat pressing , or ? or " or - changes them to other punctuation marks.
 
 --DONE is Enter, BKSP is Backspace.
 
